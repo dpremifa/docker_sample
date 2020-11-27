@@ -2,7 +2,7 @@ import requests
 
 def main():
     res = requests.get('https://jsonplaceholder.typicode.com/todos/1').json()
-    print(resfds)
+    print('resfdfeafes')
 
 
 if __name__ == '__main__':
